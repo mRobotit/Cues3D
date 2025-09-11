@@ -1,0 +1,19 @@
+wall
+floor
+door
+sink
+window
+toilet
+towel
+bathtub
+trash can
+bottle
+mirror
+container
+shower wall
+soap dish
+doorframe
+shower door
+tissue box
+object
+bathroom vanity

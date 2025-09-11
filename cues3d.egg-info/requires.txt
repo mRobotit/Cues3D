@@ -1,0 +1,7 @@
+open_clip_torch
+timm
+ftfy
+regex
+tqdm
+clip@ git+https://github.com/openai/CLIP.git
+nerfstudio>=1.0.3

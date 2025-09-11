@@ -1,0 +1,19 @@
+[project]
+name = "cues3d"
+version = "0.1.0"
+
+dependencies=[
+    "open_clip_torch",
+    "timm",
+    "ftfy",
+    "regex",
+    "tqdm",
+    "clip @ git+https://github.com/openai/CLIP.git",
+    "nerfstudio>=1.0.3",
+]
+
+[tool.setuptools.packages.find]
+include = ["cues3d*"]
+
+[project.entry-points.'nerfstudio.method_configs']
+cues3d = 'cues3d.cues3d_config:cues3d_method'

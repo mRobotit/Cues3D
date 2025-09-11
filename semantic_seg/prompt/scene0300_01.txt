@@ -1,0 +1,11 @@
+wall
+chair
+floor
+desk
+picture
+window
+bookshelf
+monitor
+backpack
+trash can
+divider

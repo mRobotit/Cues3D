@@ -1,0 +1,31 @@
+wall
+chair
+floor
+table
+door
+couch
+cabinet
+desk
+bed
+pillow
+picture
+window
+curtain
+armchair
+coffee table
+lamp
+clothes
+tv
+nightstand
+ceiling
+end table
+bag
+backpack
+trash can
+shoe
+ottoman
+mirror
+suitcase
+recycling bin
+telephone
+doorframe

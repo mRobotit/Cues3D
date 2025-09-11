@@ -1,0 +1,20 @@
+wall
+chair
+floor
+door
+shelf
+desk
+bed
+pillow
+window
+curtain
+armchair
+lamp
+clothes
+nightstand
+dresser
+printer
+paper
+closet door
+messenger bag
+object

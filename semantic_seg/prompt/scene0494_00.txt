@@ -1,0 +1,8 @@
+wall
+chair
+floor
+table
+door
+window
+whiteboard
+trash can

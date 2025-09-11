@@ -1,0 +1,2 @@
+[nerfstudio.method_configs]
+cues3d = cues3d.cues3d_config:cues3d_method

@@ -1,0 +1,16 @@
+wall
+chair
+floor
+table
+door
+picture
+window
+armchair
+lamp
+ceiling
+trash can
+radiator
+windowsill
+fireplace
+doorframe
+vacuum cleaner

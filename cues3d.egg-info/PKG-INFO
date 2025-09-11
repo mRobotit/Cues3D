@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cues3d
+Version: 0.1.0
+License-File: LICENSE
+Requires-Dist: open_clip_torch
+Requires-Dist: timm
+Requires-Dist: ftfy
+Requires-Dist: regex
+Requires-Dist: tqdm
+Requires-Dist: clip@ git+https://github.com/openai/CLIP.git
+Requires-Dist: nerfstudio>=1.0.3

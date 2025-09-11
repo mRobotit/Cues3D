@@ -1,0 +1,10 @@
+wall
+chair
+floor
+table
+door
+window
+tv
+whiteboard
+trash can
+doorframe

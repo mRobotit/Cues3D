@@ -1,0 +1,23 @@
+wall
+chair
+floor
+table
+door
+couch
+shelf
+desk
+lamp
+ceiling
+backpack
+printer
+sofa chair
+laptop
+piano
+clock
+cup
+doorframe
+tissue box
+piano bench
+toolbox
+cooler
+object

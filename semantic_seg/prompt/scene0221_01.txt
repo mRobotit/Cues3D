@@ -1,0 +1,23 @@
+wall
+chair
+floor
+table
+door
+cabinet
+desk
+office chair
+bed
+pillow
+picture
+curtain
+lamp
+nightstand
+bag
+trash can
+microwave
+mirror
+radiator
+ironing board
+ledge
+iron
+closet wall

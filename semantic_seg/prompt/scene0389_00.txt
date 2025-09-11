@@ -1,0 +1,20 @@
+wall
+chair
+floor
+table
+door
+cabinet
+bed
+picture
+curtain
+lamp
+tv
+nightstand
+ceiling
+bag
+backpack
+trash can
+radiator
+ironing board
+mini fridge
+iron
